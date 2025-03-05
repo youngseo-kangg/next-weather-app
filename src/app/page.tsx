@@ -19,7 +19,7 @@ export default async function Home() {
           <span>{res.current.condition.text}</span>
         </li>
         <li>
-          <Link href="/newyork?name=뉴욕">뉴욕</Link>
+          <Link href="/new york?name=뉴욕">뉴욕</Link>
         </li>
         <li>
           <Link href="/london?name=런던">런던</Link>
